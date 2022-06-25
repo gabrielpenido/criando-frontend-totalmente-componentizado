@@ -1,0 +1,1 @@
+O ideal é que cada componente tenha uma única resposabilidade
